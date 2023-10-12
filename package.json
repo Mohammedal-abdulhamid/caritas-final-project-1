@@ -24,7 +24,9 @@
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.3.1",
-    "react-idle-timer": "^4.6.4"
+    "react-idle-timer": "^4.6.4",
+    "eslint-plugin-react": "^7.28.0",
+    "gatsby-plugin-postcss": "^5.5.0",
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.0",
@@ -35,8 +37,7 @@
     "babel-preset-gatsby": "^2.6.0",
     "contentful-import": "^7.8.6",
     "eslint": "^7.32.0",
-    "eslint-plugin-react": "^7.28.0",
-    "gatsby-plugin-postcss": "^5.5.0",
+    
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.4.7",
     "netlify-cli": "^8.8.2",
