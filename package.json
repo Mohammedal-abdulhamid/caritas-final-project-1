@@ -44,7 +44,7 @@
     "tailwindcss": "^3.0.14"
   },
   "engines": {
-    "node": ">=18.17.1"
+    "node": ">=16.20.2"
   },
   "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
   "keywords": [
