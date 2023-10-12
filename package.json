@@ -70,6 +70,6 @@
     "netlify:deploy": "netlify deploy -d public -p",
     "eslint": "eslint \"**/*.{js, jsx, json, md}\"",
     "test": "jest",
-    "start": "node server.js"
+    "start": "gatsby-node.js"
   }
 }
